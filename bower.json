@@ -1,0 +1,27 @@
+{
+  "name": "library-os",
+  "description": "",
+  "main": "index.html",
+  "moduleType": [],
+  "keywords": [
+    "library-os"
+  ],
+  "authors": [
+    "ttm gwc"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "bootstrap": "~3.3.5"
+  },
+  "dependencies": {
+    "jquery": "1"
+  }
+}
